@@ -1,6 +1,4 @@
-# <<<<<<< HEAD
-
-![LUMOZ banner](blob:https://web.telegram.org/19caf4a1-9a80-4711-88e2-ab233c54b2c2)
+![LUMOZ banner](https://github.com/user-attachments/assets/6e260df6-d2a4-4e66-9f81-3810595acd56)
 
 # Tool Auto Lumoz Quidditch Match Bot NodeJS by Lượm Airdrop
 
