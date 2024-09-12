@@ -1,14 +1,18 @@
-# Tool Auto IAMDOG Bot NodeJS by Lượm Airdrop
+# <<<<<<< HEAD
+
+![LUMOZ banner](blob:https://web.telegram.org/19caf4a1-9a80-4711-88e2-ab233c54b2c2)
+
+# Tool Auto Lumoz Quidditch Match Bot NodeJS by Lượm Airdrop
 
 **Tool phát triển và chia sẻ miễn phí tại kênh Telegram [Lượm Airdrop Auto](https://t.me/autoairdropref)**
 
-## 🕹️ Link IAMDOG:[ Click](https://t.me/IAMDOG_bot?start=L0CTRP)
+## 🕹️ Link LUMOZ:[ Click](https://t.me/Lumoz_Quidditch_Bot/Match?startapp=inviteT5BDR)
 
 ## 🛠️ Hướng dẫn cài đặt
 
 > Yêu cầu đã cài đặt NodeJS
 
-- Bước 1: Tải về phiên bản mới nhất của tool [tại đây ⬇️](https://github.com/donguyen82/IamDog/archive/refs/heads/main.zip)
+- Bước 1: Tải về phiên bản mới nhất của tool [tại đây ⬇️](https://github.com/donguyen82/Lumoz/archive/refs/heads/main.zip)
 - Bước 2: Giải nén tool
 - Bước 3: Tại thư mục tool vừa giải nén, chạy lệnh `npm install` để cài đặt các thư viện bổ trợ
 
@@ -35,29 +39,25 @@
 
 ## >\_ Các lệnh và chức năng tương ứng
 
-| Lệnh                   | Chức năng                               |
-| ---------------------- | --------------------------------------- |
-| `npm run iamdog`       | Dùng để chạy chơi game không dùng proxy |
-| `npm run iamdog-proxy` | Dùng để chạy chơi game có dùng proxy    |
+| Lệnh                  | Chức năng                               |
+| --------------------- | --------------------------------------- |
+| `npm run lumoz`       | Dùng để chạy chơi game không dùng proxy |
+| `npm run lumoz-proxy` | Dùng để chạy chơi game có dùng proxy    |
 
 > Các lệnh trên chạy hoàn toàn độc lập với nhau
 
 ## 🕹️ Các tính năng có trong tool
 
-✔️ Auto tap, boosts
+✔️ Auto lụm snitch, usdt (chỉ lụm random 70-90% tổng snitch có sẵn)
 
-✔️ Auto điểm danh
-
-✔️ Auto nâng cấp nhân vật
-
-❗️ Làm task bắt up ảnh nên ko có auto
+✔️ Update...
 
 ## 🔄 Lịch sử cập nhật
 
 > Phiên bản mới nhất: `v1.0.0`
 
 <details>
-<summary>v1.0.0 - 📅 10/09/2024</summary>
+<summary>v1.0.0 - 📅 12/09/2024</summary>
   
 - Chia sẻ tool cho cộng đồng
 - Bổ sung readme
